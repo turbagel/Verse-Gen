@@ -1,4 +1,17 @@
-h2 {
-color: green;
+@keyframes Gradient {
+from {color: Red;}
+to {color: Orange;}
+from {color: Orange;}
+to {color: Yellow}
+from {color: Yellow;}
+to {color: Green;}
+from {color: Green;}
+to {color: Blue;}
+from {color: Blue;}
+to {color: purple;)
+}
 
+
+h2 {
+animation: Gradient 15s infinite;
 }
