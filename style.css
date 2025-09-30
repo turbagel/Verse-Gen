@@ -1,8 +1,8 @@
 @keyframes Gradient {
-  
-from {color: Red;}
-to {color: Orange;}
-
+  25% {color: #FF00E5;}
+  50% {color: #FF00E5;}
+  75% {color: #FF00E5;}
+  100% {color: #FF00E5;}
 }
 
 
